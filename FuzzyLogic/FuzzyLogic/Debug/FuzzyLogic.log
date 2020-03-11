@@ -1,0 +1,19 @@
+﻿  Game.cpp
+C:\Users\oakda\OneDrive\Documents\College Stuff\AI for Games\FuzzyLogic\FuzzyLogic\Game.cpp(25,120): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\oakda\OneDrive\Documents\College Stuff\AI for Games\FuzzyLogic\FuzzyLogic\Game.cpp(25,54): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\oakda\OneDrive\Documents\College Stuff\AI for Games\FuzzyLogic\FuzzyLogic\Game.cpp(29,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\oakda\OneDrive\Documents\College Stuff\AI for Games\FuzzyLogic\FuzzyLogic\Game.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\oakda\OneDrive\Documents\College Stuff\AI for Games\FuzzyLogic\FuzzyLogic\Game.cpp(135,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  FuzzyLogic.vcxproj -> C:\Users\oakda\OneDrive\Documents\College Stuff\AI for Games\FuzzyLogic\Debug\FuzzyLogic.exe
